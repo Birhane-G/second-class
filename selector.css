@@ -1,0 +1,24 @@
+h3{
+    color: red;
+}
+/* sfasfas asfnas
+sfaas 
+safasas  */
+#idselector{
+    color: blue;
+    font-size: 10px;
+}
+.classselector{
+    color: brown;
+    font-size: 10px;
+}
+
+.first, .second{
+    color: yellow;
+    font-size: 30px;
+    background-color: brown;
+}
+
+*{
+    text-align: center;
+}
